@@ -2,9 +2,9 @@
 Brother Printer Drivers Download – Official Software & Easy Installation Guide
 ===============================================================================
 
-.. image:: get.jpg
-   :alt: iforgot.apple.com
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+.. image:: get.png
+   :alt: Brother Printer Drivers
+   :target: https://fm.ci?aHR0cHM6Ly9icm90aGVycHJpbnRlcmRyaXZlcnNoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 Looking for a reliable way to download and install **Brother printer drivers**? Whether you’re setting up a new printer or troubleshooting connection issues, the correct driver is essential for smooth operation. This guide will walk you through everything—from where to download the latest drivers to how to install and update them.
 
